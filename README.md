@@ -1,3 +1,3 @@
 # Data-Science
 
--range of unsupervised learning techniques implemented from scratch
+- range of unsupervised learning techniques implemented from scratch
