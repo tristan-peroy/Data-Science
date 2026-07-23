@@ -1,3 +1,4 @@
-# Data-Science
+# Data Science and Statistical Learning
 
-- range of unsupervised learning techniques implemented from scratch
+- range of supervised and unsupervised learning techniques implemented from scratch
+- statistical learning methods implemented in R
